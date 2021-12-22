@@ -1,6 +1,6 @@
 .success-image {
-    display: none;
+    display: none !important;
 }
 .start-dates {
-    display:none
+    display:none !important;
 }
